@@ -4,4 +4,6 @@
 
 an open source re-imanining of tinycards.
 
-prs are closed right now. they may be opened in future.
+code prs are closed right now. they may be opened in future.
+
+[frontend translations are welcome.](https://github.com/iroase-app/frontend/tree/main/src/locales)
